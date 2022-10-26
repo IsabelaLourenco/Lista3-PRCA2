@@ -1,0 +1,10 @@
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.csprojAssemblyReference.cache
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.Form1.resources
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.Properties.Resources.resources
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.csproj.GenerateResource.cache
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.csproj.CoreCompileInputs.cache
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\bin\Debug\Lista3_EX1_PRCA2.exe.config
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\bin\Debug\Lista3_EX1_PRCA2.exe
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\bin\Debug\Lista3_EX1_PRCA2.pdb
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.exe
+C:\Users\isavs\source\repos\Lista3_EX1_PRCA2\Lista3_EX1_PRCA2\obj\Debug\Lista3_EX1_PRCA2.pdb
