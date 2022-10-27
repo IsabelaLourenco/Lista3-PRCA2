@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lista_EX11_PRCA2", "Lista_EX11_PRCA2\Lista_EX11_PRCA2.csproj", "{A059EFB7-E143-43B3-9882-ADC837285819}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A059EFB7-E143-43B3-9882-ADC837285819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A059EFB7-E143-43B3-9882-ADC837285819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A059EFB7-E143-43B3-9882-ADC837285819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A059EFB7-E143-43B3-9882-ADC837285819}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31AA4A0A-E7FA-44AE-A604-95920C19641A}
+	EndGlobalSection
+EndGlobal
